@@ -1,0 +1,1 @@
+ C:\\projetos\\sorteiotimes\\.dart_tool\\flutter_build\\93a2c96c41e52bb83efcb65c6b5e0a9c\\native_assets.yaml: 
